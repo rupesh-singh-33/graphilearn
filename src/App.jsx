@@ -75,7 +75,7 @@ const stats = [
 function App() {
   const handleExplore = (title) => {
     if (title === "2D Transformations") {
-      window.location.href = "/graphics/transformations";
+      window.location.href = "/learn/transformations";
     }
 
     if (title === "Line Drawing Algorithms") {
